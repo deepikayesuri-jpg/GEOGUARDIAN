@@ -1,0 +1,104 @@
+
+{
+  "vizag": {
+    "risk": "Medium",
+    "incidents": 12,
+    "tip": "Avoid isolated areas at night."
+  },
+  "hyderabad": {
+    "risk": "High",
+    "incidents": 35,
+    "tip": "Stay alert in crowded places."
+  },
+  "kakinada": {
+    "risk": "Low",
+    "incidents": 5,
+    "tip": "Safe area. Follow normal precautions."
+  },
+  "vijayawada": {
+    "risk": "Medium",
+    "incidents": 18,
+    "tip": "Be careful in crowded areas."
+  },
+  "guntur": {
+    "risk": "Medium",
+    "incidents": 14,
+    "tip": "Avoid carrying valuables openly."
+  },
+  "tirupati": {
+    "risk": "Low",
+    "incidents": 4,
+    "tip": "Tourist area. Follow basic safety precautions."
+  },
+  "nellore": {
+    "risk": "Medium",
+    "incidents": 10,
+    "tip": "Avoid lonely roads during late night."
+  },
+  "rajahmundry": {
+    "risk": "Low",
+    "incidents": 6,
+    "tip": "Generally safe. Stay alert in busy markets."
+  },
+  "anantapur": {
+    "risk": "Low",
+    "incidents": 7,
+    "tip": "Keep emergency contacts handy."
+  },
+  "kadapa": {
+    "risk": "Medium",
+    "incidents": 13,
+    "tip": "Stay aware while traveling at night."
+  },
+
+  "bengaluru": {
+    "risk": "Moderate",
+    "incidents": 68520,
+    "tip": "Keep personal belongings secure and use trusted transport at night."
+  },
+  "chennai": {
+    "risk": "Low",
+    "incidents": 36502,
+    "tip": "Stay aware of your surroundings, especially in busy public areas."
+  },
+  "mumbai": {
+    "risk": "Moderate",
+    "incidents": 70406,
+    "tip": "Be careful in crowded areas and keep valuables secure."
+  },
+  "delhi": {
+    "risk": "High",
+    "incidents": 343483,
+    "tip": "Avoid isolated areas at night and use well-lit, populated routes."
+  },
+  "kolkata": {
+    "risk": "Low",
+    "incidents": 11843,
+    "tip": "Maintain normal precautions and stay aware in crowded locations."
+  },
+  "pune": {
+    "risk": "Moderate",
+    "incidents": 17022,
+    "tip": "Use caution while travelling alone at night and protect valuables."
+  },
+  "ahmedabad": {
+    "risk": "Moderate",
+    "incidents": 53311,
+    "tip": "Stay alert in crowded places and follow local safety guidance."
+  },
+  "jaipur": {
+    "risk": "Moderate",
+    "incidents": 39237,
+    "tip": "Be cautious in tourist areas and avoid carrying valuables openly."
+  },
+  "lucknow": {
+    "risk": "Moderate",
+    "incidents": 42921,
+    "tip": "Prefer populated routes at night and remain aware of your surroundings."
+  },
+  "surat": {
+    "risk": "Moderate",
+    "incidents": 15000,
+    "tip": "Stay alert in crowded areas and keep valuables secure."
+  }
+}

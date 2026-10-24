@@ -1,0 +1,61 @@
+ {
+  "kakinada": {
+    "risk": "Cyclone Risk",
+    "level": "Medium",
+    "tip": "Avoid beach areas during heavy rain."
+  },
+
+  "hyderabad": {
+    "risk": "Flood Risk",
+    "level": "Low",
+    "tip": "Avoid waterlogged roads."
+  },
+
+  "vizag": {
+    "risk": "Cyclone Risk",
+    "level": "High",
+    "tip": "Follow IMD alerts and avoid the coastline."
+  },
+
+  "vijayawada": {
+    "risk": "Flood Risk",
+    "level": "Medium",
+    "tip": "Stay away from low-lying areas."
+  },
+
+  "guntur": {
+    "risk": "Heavy Rain",
+    "level": "Medium",
+    "tip": "Carry rain protection and avoid flooded roads."
+  },
+
+  "tirupati": {
+    "risk": "Heat Wave",
+    "level": "Low",
+    "tip": "Drink plenty of water and avoid afternoon sun."
+  },
+
+  "nellore": {
+    "risk": "Cyclone Risk",
+    "level": "High",
+    "tip": "Monitor weather alerts and stay indoors during storms."
+  },
+
+  "rajahmundry": {
+    "risk": "Flood Risk",
+    "level": "Medium",
+    "tip": "Be cautious near the Godavari river."
+  },
+
+  "anantapur": {
+    "risk": "Heat Wave",
+    "level": "High",
+    "tip": "Avoid outdoor activities between 12 PM and 4 PM."
+  },
+
+  "kadapa": {
+    "risk": "Heat Wave",
+    "level": "Medium",
+    "tip": "Stay hydrated and wear light-colored clothing."
+  }
+}

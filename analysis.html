@@ -1,0 +1,124 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeoGuardian - Analysis</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- Navbar -->
+
+<nav class="navbar">
+    <div class="logo">🌍 GeoGuardian</div>
+
+    <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="analysis.html">Analysis</a></li>
+        <li><a href="about.html">About</a></li>
+    </ul>
+</nav>
+
+<!-- Search Section -->
+
+<section class="hero">
+
+    <h1>🔍 Location Analysis</h1>
+
+    <p class="tagline">
+        Enter a city name to analyze its safety information.
+    </p>
+
+    <div class="button-group">
+
+        <input
+            type="text"
+            id="city"
+            placeholder="Enter City Name">
+
+        <button onclick="analyzeLocation()">
+            🔍 Analyze Location
+        </button>
+
+    </div>
+
+    <p id="result"></p>
+
+</section>
+
+
+<!-- Analysis Report -->
+
+<div id="analysisSection" class="analysis-section" style="display:none;">
+
+    <h2>📍 <span id="selectedCity">Location Safety Report</span></h2>
+
+    <div class="summary-grid">
+
+        <div class="summary-card">
+            <h3>🛡 Crime</h3>
+            <p id="crimeSummary">Loading...</p>
+        </div>
+
+        <div class="summary-card">
+            <h3>🌦 Weather</h3>
+            <p id="weatherSummary">Loading...</p>
+        </div>
+
+        <div class="summary-card">
+            <h3>🚨 Disaster</h3>
+            <p id="disasterSummary">Loading...</p>
+        </div>
+
+        <div class="summary-card">
+            <h3>📰 News</h3>
+            <p id="newsSummary">Loading...</p>
+        </div>
+
+        <div class="summary-card">
+            <h3>🏥 Emergency</h3>
+            <p id="emergencySummary">Loading...</p>
+        </div>
+
+        <div class="summary-card">
+            <h3>⭐ AI Safety Score</h3>
+            <p id="safetyScore">Loading...</p>
+        </div>
+
+        <div class="summary-card">
+
+            <h3>🗺 Nearby Services</h3>
+
+            <button onclick="openPoliceMap()">
+                👮 Police Stations
+            </button>
+
+            <br><br>
+
+            <button onclick="openHospitalMap()">
+                🏥 Hospitals
+            </button>
+
+            <br><br>
+
+            <button onclick="openFireMap()">
+                🚒 Fire Stations
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+<footer class="footer">
+    <p>© 2026 GeoGuardian | AI Powered Safety Intelligence Platform</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>

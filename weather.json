@@ -1,0 +1,61 @@
+ {
+  "vizag": {
+    "temperature": "29°C",
+    "condition": "Humid",
+    "humidity": "80%"
+  },
+
+  "hyderabad": {
+    "temperature": "34°C",
+    "condition": "Hot",
+    "humidity": "45%"
+  },
+
+  "kakinada": {
+    "temperature": "31°C",
+    "condition": "Hot & Humid",
+    "humidity": "72%"
+  },
+
+  "vijayawada": {
+    "temperature": "35°C",
+    "condition": "Hot",
+    "humidity": "50%"
+  },
+
+  "guntur": {
+    "temperature": "34°C",
+    "condition": "Hot",
+    "humidity": "52%"
+  },
+
+  "tirupati": {
+    "temperature": "30°C",
+    "condition": "Warm",
+    "humidity": "60%"
+  },
+
+  "nellore": {
+    "temperature": "32°C",
+    "condition": "Hot & Humid",
+    "humidity": "70%"
+  },
+
+  "rajahmundry": {
+    "temperature": "31°C",
+    "condition": "Humid",
+    "humidity": "75%"
+  },
+
+  "anantapur": {
+    "temperature": "36°C",
+    "condition": "Dry & Hot",
+    "humidity": "28%"
+  },
+
+  "kadapa": {
+    "temperature": "35°C",
+    "condition": "Hot & Dry",
+    "humidity": "30%"
+  }
+}

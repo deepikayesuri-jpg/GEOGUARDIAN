@@ -1,0 +1,98 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>GeoGuardian Map</title>
+
+    <link rel="stylesheet" href="map.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+
+</head>
+
+<body>
+
+<h1>GeoGuardian Map</h1>
+
+<input type="text" id="searchBox" placeholder="Enter City Name">
+<button onclick="searchLocation()">Search</button>
+<button onclick="getLocation()">📍 My Location</button>
+
+
+<div id="info">
+
+<h2>Location Information</h2>
+
+ <div class="card">
+    <h3>🏙 City</h3>
+    <p id="city">City : -</p>
+</div>
+
+<div class="card">
+    <h3>🛡 Safety</h3>
+    <p id="safety">Safety Score : -</p>
+    <p id="crime">Crime Level : -</p>
+</div>
+
+<div class="card">
+    <h3>🌦 Weather</h3>
+    <p id="weather">Weather : -</p>
+</div>
+
+<div class="card">
+    <h3>📰 Latest News</h3>
+    <p id="news">News : -</p>
+</div>
+
+<div class="card">
+    <h3>🏥 Medical Services</h3>
+    <p id="hospital">Hospitals : -</p>
+    <p id="hospitalList">Nearby Hospitals : -</p>
+</div>
+
+<div class="card">
+    <h3>👮 Police Services</h3>
+    <p id="police">Police Stations : -</p>
+    <p id="policeList">Nearby Police Stations : -</p>
+</div>
+
+<div class="card">
+    <h3>🤖 AI Safety Report</h3>
+    <p id="aiReport">AI Report : -</p>
+
+    <button onclick="downloadPDF()">
+       📄 Download Safety Report
+    </button>
+
+</div>
+
+</div>
+
+
+<div id="map"></div>
+
+
+<div id="legend">
+
+<h3>Safety Level</h3>
+
+<p>🟢 Safe</p>
+<p>🟠 Medium Risk</p>
+<p>🔴 High Risk</p>
+
+</div>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script src="weather.js"></script>
+<script src="hospitals.js"></script>
+<script src="police.js"></script>
+<script src="news.js"></script>
+<script src="ai.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="pdf.js"></script>
+
+
+<script src="map.js"></script>
+
+
+ 
+</body>
+</html>

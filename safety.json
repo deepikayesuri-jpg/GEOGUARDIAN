@@ -1,0 +1,61 @@
+{
+  "kakinada": {
+    "score": 8,
+    "status": "Safe",
+    "advice": "Good place for travel. Follow normal precautions."
+  },
+
+  "hyderabad": {
+    "score": 6,
+    "status": "Moderate",
+    "advice": "Be careful in crowded areas."
+  },
+
+  "vizag": {
+    "score": 7,
+    "status": "Moderate",
+    "advice": "Avoid beaches during cyclone warnings."
+  },
+
+  "vijayawada": {
+    "score": 6,
+    "status": "Moderate",
+    "advice": "Watch traffic and flood alerts."
+  },
+
+  "guntur": {
+    "score": 7,
+    "status": "Safe",
+    "advice": "Travel is generally safe."
+  },
+
+  "tirupati": {
+    "score": 9,
+    "status": "Very Safe",
+    "advice": "Excellent for tourists."
+  },
+
+  "nellore": {
+    "score": 6,
+    "status": "Moderate",
+    "advice": "Stay updated during cyclone season."
+  },
+
+  "rajahmundry": {
+    "score": 8,
+    "status": "Safe",
+    "advice": "Monitor river flood alerts."
+  },
+
+  "anantapur": {
+    "score": 7,
+    "status": "Safe",
+    "advice": "Avoid heat during afternoons."
+  },
+
+  "kadapa": {
+    "score": 6,
+    "status": "Moderate",
+    "advice": "Stay hydrated during summer."
+  }
+}

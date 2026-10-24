@@ -1,0 +1,121 @@
+{
+  "vizag": {
+    "weather": "Humid",
+    "disaster": "Cyclones",
+    "crime": "Medium",
+    "news": "Beach tourism increasing, new cruise services launched",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "hyderabad": {
+    "weather": "Hot",
+    "disaster": "Floods",
+    "crime": "High",
+    "news": "Heavy rains caused traffic congestion in many areas",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "kakinada": {
+    "weather": "Hot & Humid",
+    "disaster": "Cyclones",
+    "crime": "Low",
+    "news": "Port development projects are expanding",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "vijayawada": {
+    "weather": "Hot",
+    "disaster": "Floods",
+    "crime": "Medium",
+    "news": "Festival celebrations causing busy traffic",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "guntur": {
+    "weather": "Hot",
+    "disaster": "Floods",
+    "crime": "Medium",
+    "news": "New infrastructure projects announced",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "tirupati": {
+    "weather": "Warm",
+    "disaster": "Low Risk",
+    "crime": "Low",
+    "news": "High number of pilgrims visiting temple",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "nellore": {
+    "weather": "Hot & Humid",
+    "disaster": "Cyclones",
+    "crime": "Medium",
+    "news": "Cyclone alert issued near coastal areas",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "rajahmundry": {
+    "weather": "Humid",
+    "disaster": "Floods",
+    "crime": "Low",
+    "news": "Godavari river water levels rising",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "anantapur": {
+    "weather": "Dry & Hot",
+    "disaster": "Drought",
+    "crime": "Low",
+    "news": "Water scarcity issues reported",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  },
+
+  "kadapa": {
+    "weather": "Hot & Dry",
+    "disaster": "Heat Waves",
+    "crime": "Medium",
+    "news": "High temperatures affecting daily life",
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    }
+  }
+}

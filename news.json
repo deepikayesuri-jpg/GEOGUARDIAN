@@ -1,0 +1,61 @@
+ {
+  "kakinada": {
+    "headline": "Road widening project started.",
+    "update": "Traffic diversion near Main Road.",
+    "advice": "Plan your travel accordingly."
+  },
+
+  "hyderabad": {
+    "headline": "Metro services extended.",
+    "update": "Heavy traffic near Hitech City.",
+    "advice": "Use Metro during peak hours."
+  },
+
+  "vizag": {
+    "headline": "Heavy rainfall warning issued.",
+    "update": "Beach Road partially closed.",
+    "advice": "Avoid coastal areas."
+  },
+
+  "vijayawada": {
+    "headline": "New flyover construction started.",
+    "update": "Traffic congestion in city center.",
+    "advice": "Use alternate routes."
+  },
+
+  "guntur": {
+    "headline": "Road repair work in progress.",
+    "update": "Traffic diverted near Bus Stand.",
+    "advice": "Drive carefully."
+  },
+
+  "tirupati": {
+    "headline": "Temple rush expected.",
+    "update": "Extra buses arranged.",
+    "advice": "Start early."
+  },
+
+  "nellore": {
+    "headline": "Rain alert issued.",
+    "update": "Low-lying areas may flood.",
+    "advice": "Stay updated with local alerts."
+  },
+
+  "rajahmundry": {
+    "headline": "Godavari water level rising.",
+    "update": "Officials monitoring situation.",
+    "advice": "Avoid river banks."
+  },
+
+  "anantapur": {
+    "headline": "Heatwave warning.",
+    "update": "Temperature above normal.",
+    "advice": "Avoid afternoon travel."
+  },
+
+  "kadapa": {
+    "headline": "Summer advisory released.",
+    "update": "High temperatures expected.",
+    "advice": "Stay hydrated."
+  }
+}

@@ -1,0 +1,61 @@
+ {
+  "kakinada": {
+    "police": "9676818795",
+    "ambulance": "6303021201",
+    "fire": "9705885462"
+  },
+
+  "hyderabad": {
+    "police": "7207172799",
+    "ambulance": "8985435559",
+    "fire": "8712558889"
+  },
+
+  "vizag": {
+    "police": "8187850379",
+    "ambulance": "8309078625",
+    "fire": "9866219881"
+  },
+
+  "vijayawada": {
+    "police": "7675874388",
+    "ambulance": "9908274388",
+    "fire": "9701174388"
+  },
+
+  "guntur": {
+    "police": "9391337647",
+    "ambulance": "6304699974",
+    "fire": "9985291208"
+  },
+
+  "tirupati": {
+    "police": "7589470389",
+    "ambulance": "9900884356",
+    "fire": "9803457862"
+  },
+
+  "nellore": {
+    "police": "4567823014",
+    "ambulance": "2092384753",
+    "fire": "4569871002"
+  },
+
+  "rajahmundry": {
+    "police": "6540983218",
+    "ambulance": "6654987321",
+    "fire": "5498326679"
+  },
+
+  "anantapur": {
+    "police": "9954378201",
+    "ambulance": "8865004530",
+    "fire": "8764400332"
+  },
+
+  "kadapa": {
+    "police": "8765432109",
+    "ambulance": "5666443309",
+    "fire": "1087567432"
+  }
+}
